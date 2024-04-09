@@ -6,8 +6,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "node_modules/.bin/vite build --mode production",
-
+    "build": "vite build --mode production",
     "preview": "vite preview"
   },
   "dependencies": {
